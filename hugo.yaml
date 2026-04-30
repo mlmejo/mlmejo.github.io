@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://mlmejo.github.io"
 languageCode: "en-us"
 title: "Mark Mejo"
 theme: hugo-profile
@@ -152,10 +152,10 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://githupassionate b.com/mlmejo
+          url: https://github.com/mlmejo
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "https://mlmejo.github.io"
 
   # About
   about:
