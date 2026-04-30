@@ -275,8 +275,8 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
+      github: https://github.com/mlmejo
+      linkedin: https://www.linkedin.com/in/mark-laurence-mejo-50149737b
 
   # List pages like blogs and posts
   listPages:
