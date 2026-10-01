@@ -63,7 +63,7 @@ Menus:
 
 params:
   title: "Mark Laurence Mejo"
-  description: Text about my cool site
+  description: Full-stack web developer
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
